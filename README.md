@@ -44,3 +44,5 @@ A Python project for mood tracking, journaling and personal goals.
 
 ### Student Project
 A programming project created while learning fundamental programming concepts.
+##Author
+Avyuktha Jagannath
